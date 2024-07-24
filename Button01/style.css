@@ -23,7 +23,7 @@ body {
   position: relative;
   height: 50px;
   width: 50px;
-  background-color: skyblue;
+  background-color: rgb(236, 219, 67);
   display: flex;
   align-items: center;
   justify-content: center;
